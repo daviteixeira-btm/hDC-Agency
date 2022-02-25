@@ -30,7 +30,7 @@
 
 ## 👨🏻‍💻 About the project
 ```👨🏻‍💻 Sobre o projeto```
-<p>Website design for creating a page to find jobs or post vacancies.</p>
+<p>Website design to create a page to find jobs or post vacancies. Made from Matheus Battisti's Boostratp course - Hora de Codar</p>
 
 ## 🚀 Technology
 ```🚀 Tecnologias```
